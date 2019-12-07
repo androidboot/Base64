@@ -1,0 +1,2 @@
+include ':test', ':libbase64'
+rootProject.name='base64'
